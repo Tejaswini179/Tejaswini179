@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **mern stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tejaswini179?tab=repositories](https://github.com/Tejaswini179?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Tejaswini179)
 
 - 📫 How to reach me **khengaretejaswini@gmail.com**
 <hr>
