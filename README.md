@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswini179&" alt="tejaswini179" /></p>
 
+![Snake animation](https://github.com/Tejaswini179/Tejaswini179/blob/main/github-contribution-grid-snake.svg)
