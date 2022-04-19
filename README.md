@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaswini179&show_icons=true&locale=en&layout=compact" alt="tejaswini179" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tejaswini179&show_icons=true&locale=en" alt="tejaswini179" /></p>
+<p>&nbsp;<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=tejaswini179&show_icons=true&locale=en" alt="tejaswini179" /></p>
 
 ![Snake animation](https://github.com/Tejaswini179/github-contribution-grid-snake.svg/blob/master/github-contribution-grid-snake.svg)
