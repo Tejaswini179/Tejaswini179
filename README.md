@@ -1,6 +1,6 @@
 ![Blue Modern Marketing Manager LinkedIn Banner (2)](https://user-images.githubusercontent.com/97454567/164003005-1f517835-3df2-4def-bf21-c7c194914f2d.gif)
 
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India &#127800;</h3>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaswini179&label=Profile%20views&color=0e75b6&style=flat" alt="tejaswini179" /> </p>
