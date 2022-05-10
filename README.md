@@ -1,7 +1,7 @@
 ![Blue Modern Marketing Manager LinkedIn Banner (2)](https://user-images.githubusercontent.com/97454567/164003005-1f517835-3df2-4def-bf21-c7c194914f2d.gif)
 
-<h3 align="center">A passionate full stack developer from India &#127800;</h3>
-
+<h3 align="center">About Me &#127800;</h3>
+<b>Motivated and efficient Full-stack web developer. </b>Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
 <hr>
